@@ -27,24 +27,23 @@ UEXBot is a high-performance Discord bot designed for Star Citizen players, feat
 
 ## 📚 Slash Commands
 
-| Command                                 | Description                                            |
-| :-------------------------------------- | :----------------------------------------------------- |
-| `/route`                                | Find the best trade routes for your ship               |
-| `/looproute`                            | Generate circular trade loops                          |
-| `/refine`                               | Calculate best refining options for ore quantity       |
-| `/refineryjobs`                         | Show your active refinery jobs                         |
-| `/userdata`                             | View your wallet and refinery data                     |
-| `/buy`, `/sell`                         | List locations to purchase a commodity                 |
-| `/components`                           | List ship components                                   |
-| `/consumables`                          | List ship consumables                                  |
-| `/fpsweapons`                           | List FPS weapons                                       |
-| `/rentalvehicles`                       | List rentable vehicles                                 |
-| `/rentalships`                          | List rentable ships                                    |
-| `/addfunds`, `/editwallet`              | Manage your wallet balance                             |
-| `/addrefineryjob`, `/removerefineryjob` | Manage your refinery jobs                              |
-| `/arms`, `/legs`, `/backpack`, `/core`  | Get purchase location information for all              |
-| `/helmet`, `/undersuit`                 | armors and undersuits                                  |
-| `/ship`, `/vehicle`                     | List purchase locations purchasable ships and vehicles |
+| Command             | Description                                         |
+| :------------------ | :-------------------------------------------------- |
+| `/armor`            | Get purchase location information for all           |
+|                     | armors and undersuits                               |
+| `/buy`, `/sell`     | List locations to purchase a commodity              |
+| `/components`       | List purchase locations for ship components         |
+| `/consumable`       | List purchase locations for food, drinks, medpens   |
+| `/fpsweapons`       | List purchase locations for weapons and attachments |
+| `/looproute`        | Generate circular trade loops                       |
+| `/misc`             | List purchase locations for misc items              |
+| `/profile`          | View your UEX profile data                          |
+| `/rent`             | List rentable ships and vehicles                    |
+| `/route`            | Find the best trade routes for your ship            |
+| `/ship`, `/vehicle` | List purchase locations for ships and vehicles      |
+| `/utility`          | List purchase locations for ship utilities          |
+| `/wallet balance`   | Manage your wallet balance                          |
+| `/weapons`          | List purchase locations for vehicle weapons         |
 
 ---
 
