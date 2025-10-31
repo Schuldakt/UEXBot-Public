@@ -63,7 +63,7 @@ Maintaining and hosting UEXBot incurs monthly costs.
 If you love the project and want to support further development, consider donating:
 
 - [☕ Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=BDY3Z95JVFM5A)
-- [🎁 Support via Patreon](patreon.com/Schuldakt)
+- [🎁 Support via Patreon](https://patreon.com/Schuldakt478?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
 Every little bit helps keep the bot online and improving!
 
